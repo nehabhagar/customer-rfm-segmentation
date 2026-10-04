@@ -1,7 +1,7 @@
 # Customer RFM Segmentation & Revenue Churn Analysis
 
 An end-to-end data analytics project using **MySQL** and **Power BI** to segment 793 customer accounts across $1.23M+ in transactional revenue using Recency, Frequency, and Monetary (RFM) modeling.
-![Power BI Dashboard Overview](Screenshot 2026-10-04 091048.png)
+![Power BI Dashboard Overview](Screenshot%202026-10-04%20091048.png)
 ---
 
 ## 📌 Project Overview
